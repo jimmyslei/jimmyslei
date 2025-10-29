@@ -2,8 +2,6 @@
 
 **Software Developer | Open Source Enthusiast | Problem Solver**
 
----
-
 ## 🚀 About Me
 
 I'm a passionate developer who loves building innovative solutions and contributing to the open-source community. With expertise in multiple programming languages and frameworks, I enjoy turning complex problems into elegant code.
@@ -27,12 +25,12 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jimmyslei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jimmyslei&theme=dark)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmyslei&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyslei&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyslei&layout=compact&theme=radical) -->
 
 <!-- ### **Frameworks & Libraries**
 
